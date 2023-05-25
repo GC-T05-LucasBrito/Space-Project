@@ -4,3 +4,7 @@ This repository is for create a SPA with space thematic and show detailed inform
 # v0.1.0
 
 The begining.
+
+## The bug-fixes branch
+
+Specific line for bug corrections and detected issues.
